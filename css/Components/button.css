@@ -1,0 +1,18 @@
+.btn-blue
+a {
+	font-family: Oswald;
+	text-decoration: none;
+	transition: color 0.4s
+	font-weight: 600;
+}
+.btn-blue {
+	background-color: black;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+
+}
+.btn-blue:hover {
+	background-color: #D8A229;
+	color: white;
+}
